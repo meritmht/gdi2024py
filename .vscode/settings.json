@@ -1,3 +1,7 @@
 {
-    "gitdoc.enabled": true
+    "gitdoc.autoPull": "off",
+    "gitdoc.commitMessageFormat": "ccc, LLL d, kkkk, h:mm a ZZ",
+    "gitdoc.commitValidationLevel": "none",
+    "gitdoc.enabled": true,
+    "gitdoc.pullOnOpen": false
 }
