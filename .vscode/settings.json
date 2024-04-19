@@ -1,5 +1,6 @@
 {
-    "gitdoc.autoPull": "off",
+    // https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gitdoc
+    "gitdoc.autoPull": "onCommit",
     "gitdoc.commitMessageFormat": "ccc, LLL d, kkkk, h:mm a ZZ",
     "gitdoc.commitValidationLevel": "none",
     "gitdoc.enabled": true,

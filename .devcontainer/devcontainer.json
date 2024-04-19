@@ -29,7 +29,8 @@
 				//"VisualStudioExptTeam.intellicode-api-usage-examples"
 			],
 			"settings": {
-				"gitdoc.autoPull": "off",
+				// https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gitdoc
+				"gitdoc.autoPull": "onPush", //"gitdoc.autoPull": "off",
 				"gitdoc.commitMessageFormat": "ccc, LLL d, kkkk, h:mm a ZZ",
 				"gitdoc.commitValidationLevel": "none",
 				"gitdoc.enabled": true,
