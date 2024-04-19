@@ -6,5 +6,5 @@
     "gitdoc.enabled": true,
     "gitdoc.pullOnOpen": false,
     "git.autofetch": true,
-    "python.REPL.enableREPLSmartSend": true
+    "jupyter.interactiveWindow.textEditor.executeSelection": true
 }
