@@ -2,7 +2,7 @@
     "gitdoc.autoPull": "off",
     "gitdoc.commitMessageFormat": "ccc, LLL d, kkkk, h:mm a ZZ",
     "gitdoc.commitValidationLevel": "none",
-    "gitdoc.enabled": true,
+    "gitdoc.enabled": false,
     "gitdoc.pullOnOpen": false,
     "git.autofetch": true
 }
