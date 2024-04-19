@@ -35,7 +35,8 @@
 				"gitdoc.commitValidationLevel": "none",
 				"gitdoc.enabled": true,
 				"gitdoc.pullOnOpen": true,
-				"git.autofetch": true
+				"git.autofetch": true,
+				"jupyter.interactiveWindow.textEditor.executeSelection": true
 			}
         }
 	}
