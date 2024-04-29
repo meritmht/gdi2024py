@@ -25,7 +25,8 @@
 				"donjayamanne.python-environment-manager",
 				"charliermarsh.ruff",
 				"KevinRose.vsc-python-indent",
-				"vsls-contrib.gitdoc"
+				"vsls-contrib.gitdoc",
+		    		"ms-vscode.hexeditor"
 				//"VisualStudioExptTeam.intellicode-api-usage-examples"
 			],
 			"settings": {
