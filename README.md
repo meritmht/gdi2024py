@@ -27,3 +27,10 @@ Im Dev Container bereits installiert:
 
 2. [Python 3.12](https://www.python.org/) 
 3. [Poetry](https://python-poetry.org/docs/)
+
+## Loslegen
+
+Im Terminal:
+
+```shell
+poetry install

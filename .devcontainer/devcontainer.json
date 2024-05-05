@@ -25,7 +25,8 @@
 				"donjayamanne.python-environment-manager",
 				"charliermarsh.ruff",
 				"KevinRose.vsc-python-indent",
-				"vsls-contrib.gitdoc"
+				"vsls-contrib.gitdoc",
+		    		"ms-vscode.hexeditor"
 				//"VisualStudioExptTeam.intellicode-api-usage-examples"
 			],
 			"settings": {
@@ -35,7 +36,8 @@
 				"gitdoc.commitValidationLevel": "none",
 				"gitdoc.enabled": true,
 				"gitdoc.pullOnOpen": true,
-				"git.autofetch": true
+				"git.autofetch": true,
+				"jupyter.interactiveWindow.textEditor.executeSelection": true
 			}
         }
 	}

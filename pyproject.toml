@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "intro"
+version = "0.1.0"
+description = ""
+authors = ["Jöran Pieper <joeran.pieper@hs-wismar.de>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = ">=3.12,<3.13"
+lorem = "^0.1.1"
+numpy = "^1.26.0"
+matplotlib = "^3.8.0"
+scipy = "^1.11.3"
+pandas = "^2.1.1"
+scikit-learn = "^1.3.2"
+sympy = "^1.12"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.4"
+nb-clean = "^3.2.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
