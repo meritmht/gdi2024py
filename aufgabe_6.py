@@ -7,3 +7,6 @@ lengths = [2,2,3,2,3]
 L = sum(p * l for p, l in zip(probabilities, lengths))
 
 H = -sum(p * math.log2(p) for p in probabilities )
+
+R = L - H
+
