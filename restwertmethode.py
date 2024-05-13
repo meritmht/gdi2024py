@@ -16,3 +16,7 @@ def convert_to_base(num, base):
 print(convert_to_base(156, 2))
 print(convert_to_base(156, 8))
 print(convert_to_base(156, 16))
+
+num = 156
+for base in range(2,17):
+    print(f"num: {num}, base: {base:2d} | {convert_to_base(num, base)}")
