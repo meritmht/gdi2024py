@@ -10,3 +10,4 @@ H = -sum(p * math.log2(p) for p in probabilities )
 
 R = L - H
 
+L, H, R
