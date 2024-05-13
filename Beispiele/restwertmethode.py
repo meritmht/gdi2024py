@@ -22,8 +22,10 @@ for base in range(2,17):
     print(f"num: {num}, base: {base:2d} | {convert_to_base(num, base)}")
     
 
+# zurück in Zahlen umwandeln
 int('9B', 12)
 
-0b0101010
-0xAEFBC
-0o7624563
+# Präfixe für verschiedene Zahlensysteme
+0b0101010  # bin
+0xAEFBC    # hex  
+0o7624563  # oct
