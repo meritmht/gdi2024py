@@ -20,3 +20,10 @@ print(convert_to_base(156, 16))
 num = 156
 for base in range(2,17):
     print(f"num: {num}, base: {base:2d} | {convert_to_base(num, base)}")
+    
+
+int('9C', 16)
+
+0b0101010
+0xAEFBC
+0o7624563
