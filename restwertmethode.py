@@ -8,6 +8,6 @@ def convert_to_base(num, base):
     while num > 0:
         remainder = num % base # Rest der ganzzahligen Division
         num = num // base # Quotient der ganzzahligen Division
-        result = remainder + result
+        result = digits[remainder] + result
         
         
