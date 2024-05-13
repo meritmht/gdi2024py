@@ -12,4 +12,4 @@ def convert_to_base(num, base):
         return result
         
 
-convert_to_base(156, 2)
+print(convert_to_base(156, 2))
