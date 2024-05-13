@@ -14,3 +14,5 @@ def convert_to_base(num, base):
         
 
 print(convert_to_base(156, 2))
+print(convert_to_base(156, 8))
+print(convert_to_base(156, 16))
